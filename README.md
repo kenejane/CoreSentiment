@@ -2,14 +2,13 @@
 
 ## Overview
 
-The **CoreSentiment** Airflow DAG is an automated data pipeline that processes Wikipedia pageview data to analyze which major tech company (Amazon, Apple, Facebook, Google, or Microsoft) receives the highest page views. The pipeline extracts, transforms, and loads data into PostgreSQL, then performs analytical queries to identify trends.
+The **CoreSentiment** Airflow DAG is an automated data pipeline that processes Wikipedia pageview data to analyse which major tech company (Amazon, Apple, Facebook, Google, or Microsoft) receives the highest page views. The pipeline extracts, transforms, and loads data into PostgreSQL, then performs analytical queries to identify trends.
 
 ## Business Objective
 
-To build a stock market prediction tool that applies sentiment analysis using the CoreSentiment leveragingd data from wikipedia
+To build a stock market prediction tool that applies sentiment analysis using the CoreSentiment, leveraging data from Wikipedia
 
 ## Architecture
-
 
 ### Data Flow
 
